@@ -1,2 +1,2 @@
+include ':blackjack-core'
 rootProject.name = 'blackjack-java'
-
